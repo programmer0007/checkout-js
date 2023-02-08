@@ -9,3 +9,6 @@ coverage
 /packages/payment-integration-test-framework/report
 /packages/payment-integration-test-framework/screenshots
 /packages/payment-integration-test-framework/videos
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
